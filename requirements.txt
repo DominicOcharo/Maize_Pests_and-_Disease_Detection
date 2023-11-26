@@ -7,4 +7,3 @@ ultralytics==8.0.150
 pafy==0.5.5
 tensorflow
 numpy
-os
